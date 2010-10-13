@@ -1,0 +1,13 @@
+Exercise TDD in Javascript with ease using TextMate.
+
+==Installation
+
+Install npm (instructions: http://howtonode.org/introduction-to-npm)
+
+Install Expresso
+
+  npm install expresso
+
+Copy this repo in your ~/Library/Application Support/TextMate/Bundles
+
+Command+R on a JS file.
